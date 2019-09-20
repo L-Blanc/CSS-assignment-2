@@ -46,7 +46,9 @@ article{
   justify-content:center;
 }
 footer{
-  margin: 2rem 1rem
+  margin:0;
+  background:#333;
+  padding: 2rem;
 }
 footer p{
   text-align: center;
@@ -54,7 +56,7 @@ footer p{
   margin:auto;
 }
 header{
-  background:#402320;
+  background:#333;
   display:flex;
   justify-content: space-between;
   align-items: center;

@@ -50,7 +50,7 @@ article{
   align-items: center;
 }
 footer{
-  background:#402320;
+  background:#333;
   padding: 2rem
 }
 footer p{
@@ -59,7 +59,7 @@ footer p{
   margin: 0;
 }
 header{
-  background:#402320;
+  background:#333;
   display:flex;
   justify-content: space-between;
   align-items: center;
